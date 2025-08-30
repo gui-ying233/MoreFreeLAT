@@ -6,7 +6,7 @@
 // @author       鬼影233
 // @license      MIT
 // @match        https://www.latimes.com/*
-// @icon         https://www.nytimes.com/favicon.ico
+// @icon         https://www.latimes.com/favicon.png
 // @supportURL   https://github.com/gui-ying233/MoreFreeLAT/issues
 // ==/UserScript==
 
