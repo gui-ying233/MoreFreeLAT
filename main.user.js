@@ -15,7 +15,7 @@
 	document.head.appendChild(
 		Object.assign(document.createElement("style"), {
 			textContent:
-				'modality-custom-element,.met-sub-link{display:none}body{overflow:initial!important}.subscriber-content:not(#MoreFreeLAT){display:initial!important}body.met-panel-open{user-select:initial;-moz-user-select:initial;-webkit-user-select:initial;-ms-user-select:initial}',
+				"modality-custom-element,.met-sub-link{display:none}body{overflow:initial!important}.subscriber-content:not(#MoreFreeLAT){display:initial!important}body.met-panel-open{user-select:initial;-moz-user-select:initial;-webkit-user-select:initial;-ms-user-select:initial}",
 		})
 	);
 })();
