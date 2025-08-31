@@ -12,7 +12,6 @@
 
 (() => {
 	"use strict";
-    const originalRemoveChild = Element.prototype.removeChild;
 	document.head.appendChild(
 		Object.assign(document.createElement("style"), {
 			textContent:
